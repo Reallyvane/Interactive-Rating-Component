@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop rating design](./interactive-rating-component-main/design/desktop-design.jpg)
+![Desktop rating design](./design/desktop-design.jpg)
 
-![Desktop thank you design](./interactive-rating-component-main/design/desktop-thank-you-state.jpg)
+![Desktop thank you design](./design/desktop-thank-you-state.jpg)
 
-![Active states](./interactive-rating-component-main/design/active-states.jpg)
+![Active states](./design/active-states.jpg)
 
 ### Links
 
